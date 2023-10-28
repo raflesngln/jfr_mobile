@@ -179,15 +179,13 @@ const StartupScreen: React.FC = () => {
           <HStack gap={5} mb={15}>
             {[1, 5, 5].map((val, i) => {
               return (
-                <>
-                  <HStack bg={'#72CC50'} w="25%" h={75} borderRadius={9}>
+                <HStack key={i} bg={'#72CC50'} w="25%" h={75} borderRadius={9}>
+                  <Text>Terlaris</Text>
+                  <Box>
                     <Text>Terlaris</Text>
-                    <Box>
-                      <Text>Terlaris</Text>
-                      <Text>140</Text>
-                    </Box>
-                  </HStack>
-                </>
+                    <Text>140</Text>
+                  </Box>
+                </HStack>
               );
             })}
           </HStack>
