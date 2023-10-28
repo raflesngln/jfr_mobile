@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/LICENSE.txt",
+      "sha1": "2b8b815229aa8a61e483fb4ba0588b8b6c491890"
+    },
+    {
+      "path": "assets/fonts/MaterialIcons-Regular.ttf",
+      "sha1": "7e02c3f005532ff4d24148567c84089756a7848a"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsOutlined-Regular.otf",
+      "sha1": "31947883f5954ddf9277150b2710b43c9e5a3523"
+    },
+    {
+      "path": "assets/fonts/MaterialIconsRound-Regular.otf",
+      "sha1": "ac81e06519a047577408ee050c9a1cc903ca18b7"
+    },
+    {
+      "path": "assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/images/delivery.png",
+      "sha1": "6b1fb5ddd330d94896161703e667776f8f109dc6"
+    },
+    {
+      "path": "assets/images/delivery2.png",
+      "sha1": "f04216b1031deaf0622b8d89d52b880c0085b1a9"
+    },
+    {
+      "path": "assets/images/jfr.png",
+      "sha1": "db3665f1c98467ece8f1318878c68123062edc1a"
+    },
+    {
+      "path": "assets/images/jfr2.png",
+      "sha1": "ee850fbe171e36d79ee55ff3b05e666061208fa6"
+    },
+    {
+      "path": "assets/images/pli_logo.png",
+      "sha1": "dedf4e723fa7ebdc9e8305d877c87495959ba64d"
+    },
+    {
+      "path": "assets/images/scan.png",
+      "sha1": "c6e7cafa5d3e968a539a8708824af087b7376ee5"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "./src",
+    "paths": {
+      "@trackingApp/components": ["../../packages/themed/src"],
+      "@/*": ["*"],
+      "@/assets": ["./assets"],
+      "@/utils": ["./src/utils/*"],
+      "@/components": ["./src/components/*"]
+    }
+    // ...
+  }
+}
